@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rdadmun
-- 👀 I’m interested in SQL and Python, as well as their applicability in building online tools. 
+- 👀 I’m interested in Python, SQL, Git, as well as their applicability in building online tools. 
 - 🌱 I’m currently learning Python and R by pursuing a Masters in Data Science.
 - 💞️ I’m looking to collaborate on projects related to Healthcare and Preparedness
 - 📫 You can reach me at rdadmun@gmail.com
